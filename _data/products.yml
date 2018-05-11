@@ -1,29 +1,17 @@
 - name: Sweatshirt
   price: $50
-  description: Be Bold Street Ministries Black sweatshirt with white text.
-  image: https://placehold.it/180x180
+  description: Heavy Sweatshirt
+  image: http://store.beboldstreetministries.org/spree/products/36/small/SS-BB-Cross.jpg?1526014613
+  link: http://store.beboldstreetministries.org/products/hope-dealer-sweat-shirt
 
-- name: Racer-T
-  price: $15
-  description: Grey woman's Tee with narrow cut back.
-  image: https://placehold.it/180x180
+- name: V-neck
+  price: $25
+  description: Grey Woman's V-neck
+  image: http://store.beboldstreetministries.org/spree/products/47/small/black-W-BB-cross.jpg?1526015272
+  link: http://store.beboldstreetministries.org/products/woman-s-v-neck
 
-- name: TODO
-  price: $
-  description: TODO
-  image: https://placehold.it/180x180
-
-- name: TODO
-  price: $
-  description: TODO
-  image: https://placehold.it/180x180
-
-- name: TODO
-  price: $
-  description: TODO
-  image: https://placehold.it/180x180
-
-- name: TODO
-  price: $
-  description: TODO
-  image: https://placehold.it/180x180
+- name: Muscle
+  price: $25
+  description: Grey Muscle Shirt
+  image: http://store.beboldstreetministries.org/spree/products/51/small/Grey-M-HD.jpg?1526015462
+  link: http://store.beboldstreetministries.org/products/grey-muscle-shirt
