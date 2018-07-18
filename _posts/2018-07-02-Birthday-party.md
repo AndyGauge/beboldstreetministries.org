@@ -6,16 +6,24 @@ categories: [events]
 tags:
 ---
 
-On July 14th, we will once again celebrate
-another year God has granted us.  There are
-many who live in Salem that otherwise have
-no recognition on their birthdays.
+Over 600 individuals were served at the park
+July 14th.  
+![Amazing Servants]({{ "/assets/images/posts/2018/birthday/amazing-servants.jpg" | absolute_url }}){:class="img-post"}
 
-We try to make them feel special.  We do this
-with as much fanfare and celebration as we can
-muster.
+As always, everything was bathed in prayer.
+![In Prayer]({{ "/assets/images/posts/2018/birthday/we-pray.jpeg" | absolute_url }}){:class="img-post"}
 
-This year, we will be at Marion Park on Saturday
-July 14th with Sno Cones, Hot dogs, Cotton Candy,
-Sweets, and the love of Jesus.  Stop by around
-noon and share some love.
+There were hundreds of articles of clothing given
+away.
+![Clothes]({{ "/assets/images/posts/2018/birthday/clothes-given.jpeg" | absolute_url }}){:class="img-post"}
+
+We heard a strong message about the power of
+Christ in the lives of an addict.  Thank you
+Matt for talking about the issues that Christ
+can and will overcome.
+![Leadership]({{ "/assets/images/posts/2018/birthday/leadership.jpeg" | absolute_url }}){:class="img-post"}
+
+We are thankful to every one of our friends who
+came out for this event.  We love every one of
+God's people!
+![Friends]({{ "/assets/images/posts/2018/birthday/stevey.jpeg" | absolute_url }}){:class="img-post"}
