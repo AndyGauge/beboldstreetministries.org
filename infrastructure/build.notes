@@ -1,0 +1,12 @@
+sudo apt-get install python-software-properties software-properties-common
+
+sudo apt-get install lamp-server^
+
+sudo apt-get install php-xml php-mbstring php-xml php-gd php7.0-xml php-curl php-zip php-imagick
+sudo service apache2 restart
+
+<Directory />
+        Options FollowSymLinks Indexes includes ExecCGI
+        AllowOverride All
+        Require all granted
+</Directory>
