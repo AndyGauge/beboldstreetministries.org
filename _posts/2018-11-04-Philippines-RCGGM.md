@@ -12,7 +12,7 @@ It was such a blessing to join Revealing Christ Glory Global Ministry for church
 
 Matt was called on stage to reveal Christ's activity in his life.  His testimony was meaningful to many present.  At the call, we estimate 70 people raising their hands, dedicating their lives to Jesus.  Keith was called to the close the service in prayer.  You wouldn't know it, but we later found out that Keith wasn't asked to prepare for the honor.
 
-We were blessed with a traditional meal with the congregation.  Then the photos began.  We took pictures with around 200 Philippinos in every combination imaginable.  It was embarrasing how much love they showed.
+We were blessed with a traditional meal with the congregation.  Then the photos began.  We took pictures with around 200 Philippinos in every combination imaginable.  It brings me to tears how much love we are shown in the Philippines.  Half the world apart and we are family.
 
 After church we relaxed with Jim at his house and discussed an exciting future with BBSM in the Philippines.  We took a neighborhood stroll and witnessed in the slums.
 ![slums]({{ "/assets/images/posts/2018/philippines/slums.jpg" | absolute_url }}){:class="img-post"}
