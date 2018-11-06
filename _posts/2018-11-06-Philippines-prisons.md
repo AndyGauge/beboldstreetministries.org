@@ -22,4 +22,4 @@ Finally, BBSM visited Prayer House Christian Ministries.  We met councilor Chari
 
 ![Prayer House Christian Ministries]({{ "/assets/images/posts/2018/philippines/phcm.jpg" | absolute_url }}){:class="img-post"}
 
-We are praying that the Gospel will reach all 560 students tomorrow.  So far 380 people have been won for the Lord!  Thank you Jesus for your great work.
+We are praying that the Gospel will reach all 560 students tomorrow.  So far 329 people have been won for the Lord!  Thank you Jesus for your great work.
