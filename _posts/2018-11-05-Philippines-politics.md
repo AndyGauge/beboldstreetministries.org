@@ -2,7 +2,7 @@
 layout: post
 title: "BBSM visits City Hall"
 description: "Jesus Christ rightly taught."
-categories: [events]
+categories: [Philippines]
 tags:
 ---
 

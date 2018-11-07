@@ -2,7 +2,7 @@
 layout: post
 title: "BBSM Reaches into Prisons."
 description: "Jesus Christ rightly taught."
-categories: [events]
+categories: [Philippines]
 tags:
 ---
 

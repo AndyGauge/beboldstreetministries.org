@@ -2,7 +2,7 @@
 layout: post
 title: "Revealing Christ Glory Global Ministry"
 description: "Jesus Christ rightly taught."
-categories: [events]
+categories: [Philippines]
 tags:
 ---
 

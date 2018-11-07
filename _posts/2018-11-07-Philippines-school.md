@@ -6,7 +6,7 @@ categories: [Philippines]
 tags:
 ---
 
-RCGGM was asked to establish a relationship with [Eduardo Barretto Sr.](https://www.facebook.com/pages/Eduardo-Barretto-Sr-National-High-School/), a public school in Calamba.  Despite being in a resort portion of the town, most of the resort workers come from very far away to work.  The principal pressed the biggest problems are school attendance, drug addiction, and early pregnancy.  The children can believe that starting a family would get them out of life they are in, but it only leads to the same kind of problems.  
+RCGGM was asked to establish a relationship with [Eduardo Barretto Sr.](https://www.facebook.com/EduardoBarrettoSrNationalHighSchool/), a public school in Calamba.  Despite being in a resort portion of the town, most of the resort workers come from very far away to work.  The principal pressed the biggest problems are school attendance, drug addiction, and early pregnancy.  The children can believe that starting a family would get them out of life they are in, but it only leads to the same kind of problems.  
 
 ![EBES]({{ "/assets/images/posts/2018/philippines/pamphlet.jpg" | absolute_url }}){:class="img-post"}
 
@@ -30,3 +30,4 @@ We ended the evening with Most Excellent Way.  All the work we are doing here li
 
 *For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes* - Romans 1:16
 
+Tomorrow we go into a much poorer district, Calauan.  Pray for the students, and pray for the people in Calauan

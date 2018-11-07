@@ -2,7 +2,7 @@
 layout: post
 title: "Philippines Outreach"
 description: "Bringing Jesus Christ to the Philippines."
-categories: [events]
+categories: [Philippines]
 tags:
 ---
 

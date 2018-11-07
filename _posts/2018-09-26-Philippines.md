@@ -2,7 +2,7 @@
 layout: post
 title: "Philippines"
 description: "Our Mission Trip to the Philippines is funded."
-categories: [missions]
+categories: [Philippines]
 tags:
 ---
 
