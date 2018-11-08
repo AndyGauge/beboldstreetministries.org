@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BBSM goes to school."
+title: "BBSM goes to school"
 description: "Jesus Christ rightly taught."
 categories: [Philippines]
 tags:
