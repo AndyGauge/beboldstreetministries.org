@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: http://beboldstreetministries.org
-baseurl: 
+baseurl:
 title: Be Bold Street Ministries
 description: "Spreading the gospel of Jesus by providing for his children."
 keywords: 'ministry jesus homeless'
@@ -43,26 +43,27 @@ author:
     - name: stackoverflow
       url:
     - name: twitter
-      url: 
+      url:
     - name: vk
       url:
 home:
   section1: <h1>Be Bold Street Ministries</h1>
   section2: <h2>Spreading the gospel of Jesus by providing for his children.</h2>
-  section3: 
+  section3:
 blog:
-  cc_license: 
-  cc_license_image: 
+  cc_license:
+  cc_license_image:
   footer_content: Meeting the needs of the helpless
 
 disqus:
   shortname: # e.g. yizeng
   public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
 google_analytics: # e.g. 'UA-42456515-5'
-addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
+addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5
 
 paths:
   home: /
   blog: /blog/
+  philippines: /philippines
   categories: /blog/categories/
   tags: /blog/tags/

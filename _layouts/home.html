@@ -14,6 +14,7 @@
     {% include common/meta.html %}
     <link href='{{ site.baseurl }}/assets/stylesheets/home.css' rel="stylesheet" type="text/css">
     <link href='{{ site.baseurl }}/assets/stylesheets/give.css' rel="stylesheet" type="text/css">
+
     {% include common/libraries.html %}
     <script src="/assets/javascripts/quotes.js"></script>
 </head>
@@ -44,11 +45,14 @@
     <div id="section1" class="section" data-name="events">
 
         <h1 class="animated hidden main-links">
-            <a class="btn-enter btn-dark" title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.blog | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}</a>
+            <a class="btn-enter btn-dark" title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.blog | relative_url }}">Past Events</a>
         </h1>
         <p>
         <span>Check out what we are doing in Salem to minister to those in need</span>
       </p>
+      <h1 class="animated hidden main-links">
+          <a class="btn-enter btn-dark" title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.philippines | relative_url }}">Philippines</a>
+      </h1>
         <a href="https://www.facebook.com/BeBoldStreetMinistry">
           <img src="/assets/images/theme/facebook-connect.png">
         </a>
