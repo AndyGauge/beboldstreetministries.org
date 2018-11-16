@@ -14,7 +14,7 @@ We were given the most amazing celebration to recognize the effectiveness of the
 
 This is not the end of the story.  We have created a collaboration point for translations and materials.  We have created relationships with politicians and pastors, who we will be following up with to further the Jesus agenda.  We are currently working on our next trip, with many more servants, with a greater impact and a further reach.  
 
-We are grateful to the donors who made this trip possible.  We were able to have 1175 individuals respond to the saving grace of our Lord Jesus Christ.  We were able to hand out 200 pounds of clothing, including over $5,000 of BBSM merchandise.  We served 1300 meals across two cities in addition to 300 bags of candy.  We met addicts like us, both in need of victory and those who we shared victory in Jesus.  And we are going back.
+We are grateful to the donors who made this trip possible.  We were able to have 1175 individuals respond to the saving grace of our Lord Jesus Christ.  We were able to hand out 200 pounds of clothing.  We served over 1500 meals across two cities in addition to 300 bags of candy.  We were able to cover the rent and the monthly utility bills for the two churches that we have partnered with for a year. We met addicts like us, both in need of victory and those who we shared victory in Jesus.  And we are going back.
 
 ![Outreach]({{ "/assets/images/posts/2018/philippines/outside.jpg" | absolute_url }}){:class="img-post"}
 
