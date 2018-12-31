@@ -18,6 +18,10 @@
     width:940px;
   }
 
+  div.mailing {
+    padding: 10px;
+  }
+
 }
 
 @media only screen and (max-width: 640px)
@@ -40,6 +44,12 @@ div.support {
   color: #404040;
 
   margin:0 auto;
+}
+div.mailing {
+  padding: 2px;
+}
+div.mailing > p {
+    line-height: 1.0;
 }
 
 div.giving-footer {
@@ -102,6 +112,12 @@ p.giving {
   font-weight:normal;
 }
 
+.mailing {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  display: inline-block;
+}
 
 
 .container {
